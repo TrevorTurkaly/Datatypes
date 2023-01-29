@@ -1,7 +1,10 @@
 #include <iostream>
 
 /*
-
+Trevor Turkaly
+COSC-1436-57002
+Replit
+This program is inputing the "penny count" which is the two numbers that were given, 2311 and 7333, and outputting the amount for each coin types which are dollars, quarters, dimes nickels, and pennies. It takes the penny input and divides it by the value of each coin type which is listed in the variables and it then reassigns the penny input number as the remainding number from the previous count calculation and it keeps going until all coin types are gone through
 */
 
 int main() {
